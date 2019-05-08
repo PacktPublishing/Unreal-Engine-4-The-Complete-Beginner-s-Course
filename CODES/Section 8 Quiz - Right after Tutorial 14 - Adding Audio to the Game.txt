@@ -1,0 +1,74 @@
+1.) What file format does Unreal Engine use for audio files?
+
+2.) What type of Asset uses existing Sound Waves to create new sounds, by combining them and/or adjusting their properties or adding effects to them?
+
+3.) What type of Actor is used to play Sound Waves or Sound Cues?
+
+4.) What would be the result of increasing the value of the Compression Quality property of a Sound Wave?
+
+5.) What is the difference between playing a sound and spawning a sound?
+
+6.) What effect occurs when sounds, such as the siren of an ambulance, increase in pitch as they move towards you and decrease in pitch as they move away?
+
+7.) What Node can be used to play a sound at a random pitch and volume each time it’s played?
+
+8.) What is the scientific term for the reduction in strength of a signal?
+
+9.) What is the difference between the inner and outer Attenuation Shapes (by default a sphere) of an Ambient Sound Actor?
+
+10.) In order for Spatialization to work, does a sound need to be mono or stereo?
+
+11.) Name a free software application you can use to convert an audio file into a format that Unreal will accept.
+
+
+SCROLL DOWN FOR ANSWERS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1.) .wav
+2.) Sound Cue
+3.) Ambient Sound Actor
+4.) The quality of that sound will increase at a cost of increasing the amount of memory required for the sound.
+5.) When you spawn a sound, you have control over it. You can choose to stop playing the sound at any point, or modify its properties. But when you play a sound, you don’t have any control over it. You can’t modify or stop it.
+6.) Doppler effect
+7.) Modulator Node
+8.) attenuation
+9.) At any point within the inner shape, the sound will be heard at 100% volume. In the outer shape, the sound will decrease in volume as it gets closer to the outer edge.
+10.) mono
+11.) Audacity

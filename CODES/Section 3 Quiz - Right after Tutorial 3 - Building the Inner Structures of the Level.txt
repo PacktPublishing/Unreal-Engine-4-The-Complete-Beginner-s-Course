@@ -1,0 +1,82 @@
+1.) If you drag a new mesh Actor into your Level and position it in the air, what two default settings of a mesh must be changed so that the mesh will fall to the ground when the Level begins?
+
+2.) True or False: Making copies of a Brush Actor will increase the memory requirements for that Level.
+
+3.) How do you select just a single surface of a Brush?
+
+4.) In Unreal, when a mesh has different Materials applied to different sections of its surface, what are those different sections called?
+
+5.) True or False: When you scale an Actor, any Material applied to it automatically  gets scaled as well.
+
+6.) In Unreal, what is the best type of Light Actor to use to represent sunlight?
+
+7.) In Unreal, what is the best type of Light Actor to use to represent the light from a light bulb?
+
+8.) In Unreal, what is the best type of Light Actor to use to represent the light from a flashlight?
+
+9.) In Unreal, what is the best type of Light Actor to use to represent the light that is reflected off the atmosphere?
+
+10.) What Actor is used to add a blue sky and a sun disc to your Level?
+
+11.) True or False: All Components can also function as Actors on their own.
+
+12.) In Unreal, what do you call a 3D area of space that is invisible to the player and serves a specific purpose depending on its type?
+
+13.) If you wanted to have a small fire in your Level apply damage to an Actor, what is the easiest way to accomplish this?
+
+
+SCROLL DOWN FOR ANSWERS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1.) The Actor’s Mobility will need to be changed from Static to Moveable. Also, the Simulate Physics property will need to be set to True.
+2.) True
+3.) First, make sure the Brush isn’t currently selected. Then click on the individual surface you wish to select.
+4.) Elements
+5.) True
+6.) Directional Light
+7.) Point Light
+8.) Spot Light
+9.) Sky Light
+10.) Atmospheric Fog
+11.) False. While many Components are also Actors themselves, some, such as the Rotating Movement Component, are not.
+12.) Volume
+13.) Surround the fire with a Pain Causing Volume.

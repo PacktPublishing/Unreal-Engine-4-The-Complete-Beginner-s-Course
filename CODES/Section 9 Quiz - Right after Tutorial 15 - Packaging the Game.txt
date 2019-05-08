@@ -1,0 +1,67 @@
+1.) What tab of the Epic Games Launcher contains content you can download for free?
+
+2.) What tab of the Epic Games Launcher contains content you can download for a price?
+
+3.) When you download something through the Learn or Marketplace tabs of the Epic Games Launcher, how do you access it?
+
+4.) True or False: If an Asset is made available to download for free by its owner, this means you can use it in your games without restriction.
+
+5.) What file format does a 3D model need to be in for Unreal to import it?
+
+6.) Is it better to apply a Material to a mesh before or after importing it into Unreal?
+ 
+
+SCROLL DOWN FOR ANSWERS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1.) Learn tab
+2.) Marketplace tab
+3.) In the Vault section of the Library tab of the Epic Games Launcher.
+4.) False. You might be able to use it without restriction, but being available as a free download isn’t an indication of this. You will need to check the licensing requirements that have been specified by the owner.
+5.) .fbx
+6.) It is better to apply a Material to a mesh after it has been imported into Unreal.

@@ -1,0 +1,65 @@
+1.) What type of Blueprint Class would you use to store data and logic that applies to multiple Levels?
+
+2.) What type of Component, when attached to a camera, will allow the camera to automatically make adjustments in cases where the line of sight between the camera and the mesh gets obscured?
+
+3.) What is the parent class of the Character class?
+
+4.) Why would you want to define your inputs inside of a Player Controller?
+
+5.) What is the difference between Action Mappings and Axis Mappings?
+
+
+SCROLL DOWN FOR ANSWERS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1.) Game Mode
+2.) Spring Arm Component
+3.) Pawn
+4.) Once the input has been defined in a Player Controller, it can easily be applied to any Pawn you want, instead of having to define it over and over in each Pawn. Also, changes only need to be made in one place.
+5.) Action Mappings are for discrete inputs while Axis Mappings are for continuous inputs.

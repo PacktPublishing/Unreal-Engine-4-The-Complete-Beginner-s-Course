@@ -1,0 +1,99 @@
+1.) What is the name of the company that developed and owns the Unreal Engine?
+
+2.) If you make $2500 in a single quarter from a game you developed using the Unreal Engine, how much of a royalty fee do you owe for that quarter?
+
+3.) If you make $4000 in a single quarter from a game you developed using the Unreal Engine, how much of a royalty fee do you owe for that quarter?
+
+4.) True or false: You must register an account in order to download and install the Unreal Engine.
+
+5.) What is the name of the application that launches the Unreal Engine?
+
+6.) In the Unreal Engine, what is the name of the unit that stores all the information for an individual game?
+
+7.) Describe a scenario where would you need to use the Browse button in the Project Browser to find a project.
+
+8.) Describe a scenario where you would need to use the Refresh button in order for a project to appear in the Project Browser.
+
+9.) In the Unreal Engine, what can be defined as a collection of objects and their properties that together define an area of gameplay?
+
+10.) True or False: Major game releases rarely contain hundreds of Levels.
+
+11.) Anything you can open or add to your game within the Content Browser can be described as a what?
+
+12.) Any object that can be added to a Level is called a what?
+
+13.) True or False: Only physical, visible objects within a Level are considered Actors.
+
+14.) What is a four-letter technical term for a digital 3D object?
+
+15.) What do you call a mesh with no moving parts?
+
+16.) What kind of Actor, used to represent 3D space, is useful for prototyping your Levels?
+
+17.) What is an Asset you can apply to a surface to make that surface look like it’s made out of a certain substance?
+
+18.) True or False: Light Actors are used to represent objects that emit light.
+
+
+SCROLL DOWN FOR ANSWERS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1.) Epic Games
+2.) $0. You only owe a royalty on sales above $3000 for a quarter.
+3.) $50. You must pay a 5% royalty on sales above $3000 for a quarter. 4000 - 3000 = 1000 * .05 = 50
+4.) True
+5.) Epic Games Launcher
+6.) project
+7.) If you downloaded a project from the Internet and saved it to a location other than Unreal’s installation directory.
+8.) If you downloaded a project from the Internet and saved it in Unreal’s installation directory.
+9.) Level
+10.) False. It is not uncommon for a major release to contains hundreds of Levels.
+11.) Asset
+12.) Actor
+13.) False
+14.) mesh
+15.) static mesh
+16.) Brush
+17.) Material
+18.) False. Light Actors are only used for the light itself. You would use a mesh to represent the object that is emitting the light.

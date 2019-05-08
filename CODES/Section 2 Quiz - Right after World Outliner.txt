@@ -1,0 +1,81 @@
+1.) What is the difference between the Unreal Engine and the Unreal Editor?
+
+2.) What is the main editor of the Unreal Editor?
+
+3.) What is the window in the Level Editor called that gives you a visual representation of your Level?
+
+4.) What is the first mode of the Modes Panel?
+
+5.) What button or key, when held down, will cause you to rotate your view in the Viewport when the mouse is dragged and will also allow you to navigate the Viewport with WASD movement?
+
+6.) What button or key is used to focus on objects in the Viewport?
+
+7.) What three buttons or keys are used to select the Move, Rotate, and Scale Tools?
+
+8.) How do you use the Move Tool to make a copy of an Actor?
+
+9.) What button or key is used to snap an Actor to the nearest surface?
+
+10.) What button or key is used to enter and exit Immersive Mode (fullscreen)?
+
+11.) How can you hide all Actors and icons in the Viewport that won’t be visible when the game is running?
+
+12.) In the Transform Category of the Details Panel, what is the lock icon to the right of the Scale values used for?
+
+13.) What does it mean when a Light Actor has a Mobility setting of Stationary?
+
+14.) True or False: Moving an Actor will also move that Actor’s parent.
+
+
+SCROLL DOWN FOR ANSWERS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1.) The Unreal Editor is the application used to create games and the Unreal Engine is the application that runs the games.
+2.) The Level Editor
+3.) Viewport
+4.) Place Mode
+5.) right mouse button
+6.) F key
+7.) W, E, and R keys
+8.) Hold down the Alt key and use the mouse to drag one of the Move Tool’s three colored arrows.
+9.) End key
+10.) F11 key
+11.) Press the G key to enter Game View.
+12.) Toggling the icon to a locked status will cause the selected Actor to scale uniformly when scaling any of the axes.
+13.) The Light can’t change location but can change in other ways, such as being turned on or off, or having its color change.
+14.) False. Moving a parent will also move the child, but not vice-versa.

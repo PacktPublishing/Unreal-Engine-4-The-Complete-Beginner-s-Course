@@ -1,0 +1,72 @@
+1.) What does HUD stand for?
+
+2.) What visual-based framework does Unreal Engine 4 use for developing user interfaces?
+
+3.) What type of Blueprint is used to create user interfaces in Unreal Engine 4?
+
+4.) What Node takes a widget as input and then displays that widget on the screen?
+
+5.) True or False: Whatever color you set the Color and Opacity to in the Root Widget will be applied to all child widgets and will be combined with the color of the child itself.
+
+6.) What type of panel is best for absolute positioning of its children?
+
+7.) What type of panel is best for perfectly aligning its children evenly with one another?
+
+8.) What is the ZOrder property used for?
+
+9.) What does it mean when a widget’s Visibility property is set to Hidden?
+
+10.) How would you use a Progress Bar Widget to automatically represent the value of a numerical variable during runtime?
+
+11.) What is an Enum variable?
+
+
+SCROLL DOWN FOR ANSWERS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1.) Heads Up Display
+2.) Unreal Motion Graphics (UMG)
+3.) Widget Blueprint
+4.) Add To Viewport Node
+5.) True
+6.) Canvas Panel
+7.) Uniform Grid Panel
+8.) Used to determine the order in which widgets get drawn to the screen and, thus, for widgets in the same location, determines which widget overlaps which.
+9.) The widget will be invisible to the user, and cannot be interacted with by the user, but it will take up space in the layout.
+10.) Bind that variable to the Progress Bar’s Percent property.
+11.) A type of variable that can only hold a value from a finite set of predefined options.

@@ -1,0 +1,80 @@
+1.) What is the area of a Blueprint where you script the logic called?
+
+2.) What Node, inside of a Level Blueprint, will be activated by the Level first starting?
+
+3.) What Node is activated before every frame of gameplay?
+
+4.) What is it called when the Engine converts the logic of a Blueprint into machine code that the computer can understand?
+
+5.) What values can a variable of type Boolean hold?
+
+6.) After creating a new variable, what do you need to do before you can set a default value for the variable?
+
+7.) What does it mean when a variable’s Private property is set to True?
+
+8.) What is the index number of the third element of an array?
+
+9.) What are four advantages to using functions?
+
+10.) What type of Node takes in a Boolean value as its input and then continues execution either through a True output execution pin or a False output execution pin?
+
+11.) How do you access an Actor within the Level Blueprint?
+
+12.) How do you create a Blueprint out of an existing Actor?
+
+13.) What kind of Node can be used to produce simple animations, by outputting a stream of values over time?
+
+
+SCROLL DOWN FOR ANSWERS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1.) Event Graph
+2.) Event BeginPlay Node
+3.) Event Tick Node
+4.) compiling
+5.) True or False
+6.) compile the Blueprint
+7.) It means that only the Blueprint that the variable belongs to is allowed to access the variable.
+8.) 2
+9.) reusability,  editability, reliability, readability
+10.) Branch Node
+11.) Select the Actor in the Level Editor, then open the Node Menu in the Blueprint Editor and select “Get reference to [Actor]” near the top of the menu.
+12.) Select the Actor, then in the Details Panel, click on the blue “Blueprint/Add Script” button.
+13.) Timeline Node

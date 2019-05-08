@@ -1,0 +1,67 @@
+1.) If two Actors are set to Block one another’s type, and the Simulation Generates Hit Events property is True for Actor 1 and False for Actor 2, when they collide, will Actor 1 register a Hit Event?
+
+2.) If two Actors are set to Overlap one another’s type, and the Generate Overlap Events property is True for Actor 1 and False for Actor 2, when they overlap, will Actor 1 register an Overlap Event?
+
+3.) What do Query Collisions and Physics Collisions refer to?
+
+4.) If an Actor doesn’t move, what should you set its Object Type to?
+
+5.) What should you set the Trace Responses to for a Static Mesh Actor meant to represent a transparent glass wall?
+
+6.) What does an Apply Damage Node do?
+
+7.) In a general sense, what is the strategy to prevent an Actor from registering too many Damage Events when colliding with something the applies damage to it?
+
+
+SCROLL DOWN FOR ANSWERS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+1.) Yes. For an Actor’s Hit Event to fire, only the Simulation Generates Hit Events property for that Actor needs to be True.
+2.) No. For an Actor’s Overlap Event to fire, both the Actors involved must have their Generate Overlap Events property set to True.
+3.) Query Collisions refer to overlap collisions and Physics Collisions refer to blocking collisions.
+4.) WorldStatic
+5.) Overlap. This means other Actors will be able to register that the wall is there and also be able to detect Actors that are behind the wall.
+6.) An Apply Damage Node will activate a Damage Event for the Actor connected to its Damaged Actor pin. It will also pass the data from its other pins to the Damage Event.
+7.) Make that Actor temporarily immune to damage for a short time after each Damage Event.
